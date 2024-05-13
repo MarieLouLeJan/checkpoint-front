@@ -1,0 +1,23 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  height: 15rem;
+  width: 20rem;
+  padding: 0.5rem;
+}
+
+.cardsContainer {
+  display: flex;
+  flex-flow: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.titleContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+}

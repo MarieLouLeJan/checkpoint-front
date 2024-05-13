@@ -1,0 +1,28 @@
+.countryCard {
+  display: flex;
+  flex-direction: column;
+  height: 15rem;
+  width: 20rem;
+  padding: 0.5rem;
+  margin: auto;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 20rem;
+  margin: auto;
+  gap: 2rem;
+}
+
+.title {
+  text-align: center;
+}
+
+.countryContainer {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1rem;
+  align-items: center;
+  flex-direction: column;
+}
